@@ -1,0 +1,10 @@
+{
+    "FFlagRenderDxgiSwapChainFlipModel": "True",
+    "DFIntTaskSchedulerTargetFps": 999,
+    "FFlagDebugForceMaxTargetFps": "True",
+    "FFlagDisablePostFx": "True",
+    "FFlagRenderFixFastClusterTextureLeak": "True",
+    "FIntRenderShadowmapQuality": 0,
+    "FFlagEnableRawInputDirect": "True",
+    "FFlagRenderInterpolationRate": 20
+}
